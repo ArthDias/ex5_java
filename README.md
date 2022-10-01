@@ -1,10 +1,10 @@
 ## Sobre o Projeto
 
-Este é o `primeiro exercício` da lista de `Estrutura Sequencial` do site [python.org](https://wiki.python.org.br/EstruturaSequencial).
+Este é o `quinto exercício` da lista de `Estrutura Sequencial` do site [python.org](https://wiki.python.org.br/EstruturaSequencial).
 
 ## Enunciado do Exercício
 
-Faça um Programa que mostre a mensagem "Alô, mundo!!" na tela.
+Faça um Programa que converta metros para centímetros.
 
 ## Folder Structure
 
